@@ -1,0 +1,19 @@
+h1 {
+	margin: 0;
+	font-size: 80px;
+	padding: 30px;
+}
+
+p {
+	font-size: 20px;
+	padding: 20px 40px;
+}
+
+
+.u-background-red { background-color: #ed2891; }
+.u-background-blue { background-color:  #4bc1be; }
+.u-background-yellow { background-color: #ecea5c; }
+
+.section {
+	height: 100vh;
+}
