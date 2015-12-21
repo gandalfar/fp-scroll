@@ -15,5 +15,28 @@ p {
 .u-background-yellow { background-color: #ecea5c; }
 
 .section {
+	position: absolute;
+	top: 0;
+	left: 0;
+
 	height: 100vh;
+	width: 100%;
+}
+
+.section-first {
+	z-index: 150;
+}
+
+.section-second {
+	z-index: 100;
+}
+
+.section-third {
+	z-index: 50;
+}
+
+.footer {
+	display: none;
+	
+	z-index: 0;
 }
